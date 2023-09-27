@@ -1,0 +1,1 @@
+# Base project to work with Laravel, MySQL and Nginx running on docker
